@@ -10,7 +10,7 @@ function screenshot() {
 		var imageURL = canvas.toDataURL('image/png')
 		let a = document.createElement('a')
 		a.href = imageURL
-		a.download = imageURL
+		a.download = 'MyAffirmations'
 		a.click()
 	})
 }
