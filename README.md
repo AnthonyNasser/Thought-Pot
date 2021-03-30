@@ -12,4 +12,4 @@ The site also features a resources tab that links to all the mental health resou
 * html2canvas
 
 ## Launch
-Thought-Pot is live via github pages link
+Thought-Pot is live via this github pages [link](https://anthonynasser.github.io/thought-pot/)
